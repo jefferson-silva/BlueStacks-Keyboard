@@ -31,7 +31,7 @@ Enter::
 	Send, {Enter}
 	; erase Edit
 	GuiControl, , Message
-	; activate virtual keyabord
+	; activate virtual keyboard
 	WinActivate, Whats Keyboard
 Return
 #IfWinActive
